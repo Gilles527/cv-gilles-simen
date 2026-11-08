@@ -922,13 +922,13 @@ et des applications web sur mesure, fiables et performants.
             </a>
 
             <a
-              href="https://github.com"
+              href="https://github.com/Gilles527"
               target="_blank"
               rel="noreferrer"
               className="link-lift flex items-center justify-center gap-3 p-4 rounded-2xl bg-white/[0.03] border border-white/5 hover:border-plasma/40 text-gray-300 hover:text-white transition-all"
             >
               <Github className="w-4 h-4 text-plasma" />
-              <span className="font-mono text-xs">GitHub</span>
+              <span className="font-mono text-xs">github.com/Gilles527</span>
             </a>
 
             <a
